@@ -22,6 +22,7 @@ I have a wide range of interests.
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ## RABBIT HOLE
   [![website](https://img.shields.io/badge/website-19CAAD.svg?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UmFiYml0TVE8L3RpdGxlPjxwYXRoIGQ9Ik0yMy4wMzUgOS42MDFoLTcuNjc3YS45NTYuOTU2IDAgMDEtLjk2Mi0uOTYyVi45NjJhLjk1Ni45NTYgMCAwMC0uOTYyLS45NTZIMTAuNTZhLjk1Ni45NTYgMCAwMC0uOTYyLjk1NlY4LjY0YS45NTYuOTU2IDAgMDEtLjk2Mi45NjJINS43NjJhLjk1Ni45NTYgMCAwMS0uOTYxLS45NjJWLjk2MkEuOTU2Ljk1NiAwIDAwMy44MzkgMEguOTU5YS45NTYuOTU2IDAgMDAtLjk1Ni45NjJ2MjIuMDc2QS45NTYuOTU2IDAgMDAuOTY1IDI0aDIyLjA3YS45NTYuOTU2IDAgMDAuOTYyLS45NjJWMTAuNThhLjk1Ni45NTYgMCAwMC0uOTYyLS45OHptLTMuODYgOC4xNTJhMS40MzcgMS40MzcgMCAwMS0xLjQzNyAxLjQ0M2gtMS45MjRhMS40MzcgMS40MzcgMCAwMS0xLjQzNi0xLjQ0M3YtMS45MTdhMS40MzcgMS40MzcgMCAwMTEuNDM2LTEuNDQzaDEuOTI0YTEuNDM3IDEuNDM3IDAgMDExLjQzNyAxLjQ0M3oiLz48L3N2Zz4=&style=for-the-badge)](27rabbitlt.github.io)
